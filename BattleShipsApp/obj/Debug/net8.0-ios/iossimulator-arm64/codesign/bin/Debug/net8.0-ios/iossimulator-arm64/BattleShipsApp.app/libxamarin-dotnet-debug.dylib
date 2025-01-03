@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/fivlas/Desktop/BattleShipsApp/BattleShipsApp/bin/Debug/net8.0-ios/iossimulator-arm64/BattleShipsApp.app/libxamarin-dotnet-debug.dylib

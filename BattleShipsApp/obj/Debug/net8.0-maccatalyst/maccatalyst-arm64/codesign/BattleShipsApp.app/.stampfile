@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/fivlas/Desktop/BattleShipsApp/BattleShipsApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/fivlas/Desktop/BattleShipsApp/BattleShipsApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/BattleShipsApp.app
