@@ -9,11 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e128712-5749-4932-a761-4e23559b00b3" name="Changes" comment="" />
+    <list default="true" id="1e128712-5749-4932-a761-4e23559b00b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BattleShipsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BattleShipsApp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -34,6 +39,7 @@
     "Device#class com.jetbrains.rider.run.multiPlatform.ios.devices.IOSSimulatorKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider#iOS: BattleShipsApp": "iPhone 16 Pro (iOS 18.2)",
     "DeviceKind#com.jetbrains.rider.run.multiPlatform.ios.devices.IOSDevicesProvider": "Simulator",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "iOS.BattleShipsApp.executor": "Run",
     "macOS.BattleShipsApp.executor": "Run",
     "node.js.detected.package.eslint": "true",
@@ -89,7 +95,7 @@
       <updated>1735942477971</updated>
       <workItem from="1735942479409" duration="604000" />
       <workItem from="1735943098858" duration="416000" />
-      <workItem from="1735943527951" duration="3857000" />
+      <workItem from="1735943527951" duration="4837000" />
     </task>
     <servers />
   </component>
